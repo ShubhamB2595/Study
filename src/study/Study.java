@@ -3,7 +3,9 @@ package study;
 public class Study {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		System.out.println("Practicing the new git project");
+		System.out.println("Branch1");
 
 	}
 
